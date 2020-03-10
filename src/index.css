@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.headerNav {
+  position: static;
+  font-family: serif;
+  font-size: x-large;
+  font-weight: bolder;
+  background: rgba(60, 83, 126, 0.918);
+  color: rgba(19, 17, 17, 0.932);
+  border-bottom: solid black 2px;
+  text-align: center;
+  padding: 10px;
+}
